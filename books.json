@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "63fc89495c09df7ee96c4e73"
+  },
+  "ISBN-13": "9780552779319",
+  "Title": "Computing With Quantum Cats - From Colossus To Qubits",
+  "Authors": [
+    "John Gribbin"
+  ],
+  "Publisher": "Random House",
+  "Year": "2015",
+  "Language": "en",
+  "BSMID": "BSM1001",
+  "Interest_level": "UY",
+  "Book_level": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "63fe0950ce43d2947195ebbb"
+  },
+  "ISBN-13": "9781853260957",
+  "Title": "King Lear",
+  "Authors": [
+    "William Shakespeare"
+  ],
+  "Publisher": "Wordsworth Editions",
+  "Year": "1994",
+  "Language": "en",
+  "BSMID": "BSM1002",
+  "Interest_level": "",
+  "Book_level": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "640082fce58a5f6fe3b0970a"
+  },
+  "ISBN-13": "9781398318502",
+  "Title": "Cambridge Igcse And O Level Computer Science Teacher's Guide With Boost Subscription Booklet",
+  "Authors": [
+    "David Watson",
+    "Helen Williams"
+  ],
+  "Publisher": "Hodder Education",
+  "Year": "2021",
+  "Language": "en",
+  "BSMID": "BSM1003",
+  "Interest_level": "",
+  "Book_level": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "640089c397205e11d281fd48"
+  },
+  "ISBN-13": "9788411010856",
+  "Title": "Vengadores cósmicos",
+  "Authors": [
+    "Brian Michael Bendis"
+  ],
+  "Publisher": "",
+  "Year": "2021",
+  "Language": "es",
+  "BSMID": "BSM1004",
+  "Interest_level": "",
+  "Book_level": 0,
+  "quantity": 1
+}]
