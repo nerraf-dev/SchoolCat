@@ -10,7 +10,7 @@
   "Publisher": "Random House",
   "Year": "2015",
   "Language": "en",
-  "BSMID": "BSM1001",
+  "Library_id": "BK1001",
   "Interest_level": "UY",
   "Book_level": 0,
   "quantity": 1
@@ -26,7 +26,7 @@
   "Publisher": "Wordsworth Editions",
   "Year": "1994",
   "Language": "en",
-  "BSMID": "BSM1002",
+  "Library_id": "BK1002",
   "Interest_level": "",
   "Book_level": 0,
   "quantity": 1
@@ -43,7 +43,7 @@
   "Publisher": "Hodder Education",
   "Year": "2021",
   "Language": "en",
-  "BSMID": "BSM1003",
+  "Library_id": "BK1003",
   "Interest_level": "",
   "Book_level": 0,
   "quantity": 1
@@ -59,7 +59,7 @@
   "Publisher": "",
   "Year": "2021",
   "Language": "es",
-  "BSMID": "BSM1004",
+  "Library_id": "BK1004",
   "Interest_level": "",
   "Book_level": 0,
   "quantity": 1
